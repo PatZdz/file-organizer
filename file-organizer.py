@@ -10,7 +10,16 @@ file_types = {
     "Documents": [".pdf", ".docx", ".txt", ".md", ".pages"],
     "Images": [".jpg", ".png", ".jpeg"],
     "Installers": [".exe", ".dmg", ".msi"],
-    "Archives": [".zip", ".rar", ".7z"]
+    "Archives": [".zip", ".rar", ".7z"],
+    "Music": [".mp3", ".wav", ".m4a"],
+    "Videos": [".mp4", ".avi", ".mkv"],
+    "Programs": [".py", ".java", ".cpp", ".js"],
+    "Fonts": [".ttf", ".otf"],
+    "Web": [".html", ".css", ".js"],
+    "Design": [".psd", ".ai", ".psd", ".csv", ".afdesign", ".sketch"],
+    "Data": [".json", ".xml", ".csv", ".yaml"],
+    "3D": [".obj", ".fbx", ".glb"],
+    "Books": [".epub", ".mobi", ".azw3"],
 }
 
 # Iterate over files in the downloads folder
