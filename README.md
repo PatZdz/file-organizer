@@ -6,7 +6,7 @@ Python file organizer for "downloads". I know it's easy, but such are the beginn
 - os i shutil
 
 ✅ What does it do?:
-- scans the ‘downloads’ folder
+- scans the "downloads" folder
 - checks the file extension
 - moves the file to a created or existing folder that matches the extension.
 
